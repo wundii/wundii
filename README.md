@@ -2,11 +2,9 @@
 
 I'm a PHP developer with a passion for clean architecture and robust backend systems.
 
-- 🔧 Currently working on:
-  - The **Data Mapper** is a convenient processing option for mapping xml, json and arrays into objects.
-  - An **Afterbuy SDK** to streamline integration with the Afterbuy platform
-
-- 💼 Professionally, I develop and maintain internal systems tailored to specific business needs
+## Currently working on:
+- The [**Data Mapper**](https://github.com/wundii/data-mapper) is a convenient processing option for mapping xml, json and arrays into objects.
+- An [**Afterbuy SDK**](https://github.com/wundii/afterbuy-sdk) to streamline integration with the Afterbuy platform
 
 Feel free to check out my repositories or reach out if you’d like to connect!
 
