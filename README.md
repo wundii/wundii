@@ -4,7 +4,7 @@ I'm a PHP developer with a passion for clean architecture and robust backend sys
 
 ## Currently working on:
 - The [Data Mapper](https://github.com/wundii/data-mapper) is a convenient processing option for mapping xml, json and arrays into objects.
-- The [Afterbuy SDK](https://github.com/wundii/afterbuy-sdk)is a library for easy integration of the Afterbuy platform
+- The [Afterbuy SDK](https://github.com/wundii/afterbuy-sdk) is a library for easy integration of the Afterbuy platform
 
 Feel free to check out my repositories or reach out if you’d like to connect!
 
