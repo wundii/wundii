@@ -19,6 +19,7 @@ Feel free to check out my repositories or reach out if you’d like to connect!
 ![Static Badge](https://img.shields.io/badge/Json_Web_Token-FFFFFF?style=for-the-badge&logo=jsonwebtokens&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&labelColor=black)
